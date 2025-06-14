@@ -4,7 +4,7 @@ public class Break {
         for (;;i++)
         {
             if (i % 2000 == 0){
-            System.out.println(i + "\nok code compiles" );
+            System.out.println(i + "\nok code compiles");
             break;
             }
             System.out.println(i);
